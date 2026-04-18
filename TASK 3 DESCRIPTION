@@ -1,0 +1,15 @@
+This video demonstrates a complete workflow for analyzing user behavior and building an interactive dashboard using tools like Jupyter Notebook and Power BI.
+It begins with data processing in a Python environment, where user session data is cleaned and analyzed. Key steps include:
+Importing and preparing datasets
+Defining funnel stages such as Browse → Add to Cart → Checkout → Purchase
+Calculating important metrics like conversion rates, session counts, and average order value
+Segmenting data by region, device, and marketing channels
+The video then moves into advanced analysis, including:
+Funnel drop-off identification
+Regional performance comparison
+Strategic insights and recommendations based on user behavior
+Finally, the processed data is visualized in a Power BI dashboard, showcasing:
+Funnel progression across stages
+Conversion rates and drop-offs
+Revenue analysis by channel and region
+User distribution by device type
